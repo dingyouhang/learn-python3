@@ -3,3 +3,7 @@
 
 name = input()
 print('Hello,', name)
+
+name = input('please put your name')
+print('hello' , name)
+
